@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dc3G3ovW1aVdwrV5aqq76DmQitYTH3X07F46Au3pKiY=",
+  "Source": "WebAPI-withEFCore",
+  "BasePath": "_content/WebAPI-withEFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
